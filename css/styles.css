@@ -10,21 +10,25 @@ h1 {
     font-family: 'Sacramento', cursive;
 }
 
-h2{
-    font-family: 'Montserrat', sans-serif; 
-}
-
-h3{
+h2 {
     font-family: 'Montserrat', sans-serif;
 }
 
-.btm-cloud{
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.btm-cloud {
     position: absolute;
     left: 300px;
     bottom: 300px;
 }
 
-.top-cloud{
+.top-cloud {
     position: absolute;
     right: 300px;
     top: 50px;
@@ -34,17 +38,18 @@ h3{
     background-color: #CBF1F5;
     position: relative;
     padding-top: 100px;
-}
-
-.mid-container{
-    background: red;
-}
-
-.btm-container{
-    background: blue;
-} 
-
-.divTest{
     height: 200px;
     width: 200px;
+
+}
+
+.mid-container {}
+
+.btm-container {}
+
+
+#face {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px
 }
